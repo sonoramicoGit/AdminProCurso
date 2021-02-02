@@ -7,6 +7,7 @@
     animation-fill-mode: both
 }
 
-a[class^="selector"] {
+a[class^="selector"],
+.cursor {
     cursor: pointer;
 }
